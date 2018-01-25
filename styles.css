@@ -3,23 +3,21 @@ header{
     width:100%;
     background:#333
 }
-
-.box1{
+.headerBox{
     background: #eee;
     height:50px;
+    margin-top:25px;
+}
+.box1{
     width:200px;
     margin-left:50px;
-    margin-top:25px;
     float:left;
     /* border:1px red solid; */
 }
 
 .box2{
-    background: #eee;
-    height:50px;
     width:400px;
     margin-right:50px;
-    margin-top:25px;
     float:right;
     /* border:1px red solid; */
 }
